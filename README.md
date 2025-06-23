@@ -97,7 +97,7 @@ flutter run
 
 - Le projet respecte l’ensemble des critères du challenge.
 - L’architecture et l’UX sont pensées pour être évolutives et professionnelles.
-- **Aucune utilisation de ChatGPT pour la génération du code final.**
+
 
 ---
 
