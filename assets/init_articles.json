@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Service Mobile App",
+    "description": "Développement complet d'une application Flutter",
+    "unitPrice": 150.0,
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "name": "UI/UX Design",
+    "description": "Conception des maquettes pour l'app mobile",
+    "unitPrice": 100.0,
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Web Hosting",
+    "description": "Hébergement web pour 12 mois",
+    "unitPrice": 80.0,
+    "quantity": 1
+  }
+]
